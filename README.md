@@ -1,2 +1,2 @@
 # Self-Service-Cashier-RM-Padang
-Self Service Cashier adalah app yang memudahkan sebuah restoran supaya pembelinya bisa memesan dan tau berapa total harga yang harus dibayar
+Self Service Cashier adalah app yang memudahkan sebuah restoran supaya pembelinya bisa memesan dan tau berapa total harga yang harus dibayar,ada 10 Menu di RM tersebut yang bisa dipilih pembeli. Pembeli juga bisa menentukan mau membeli berapa quantity dari barang tersebut. Setelah memilih salah 1 menu, ada pilihan untuk lanjut ke memesan lagi atau selesai. Setelah memesan seluruh menu yang diinginkan, aplikasi akan menampilkan apa saja menu yang dipilih, beserta harga dan jumlahnya. Harga total akan ditampilkan di akhir aplikasi.
